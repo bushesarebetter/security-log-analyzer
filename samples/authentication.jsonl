@@ -1,0 +1,12 @@
+{"timestamp":"2026-09-14T09:00:00Z","event":"authentication","host":"lab-server","user":"sample-reader","source_ip":"198.51.100.8","outcome":"success"}
+{"timestamp":"2026-09-14T09:01:00Z","event":"authentication","host":"lab-server","user":"sample-student","source_ip":"192.0.2.10","outcome":"failure"}
+{"timestamp":"2026-09-14T09:01:10Z","event":"authentication","host":"lab-server","user":"sample-student","source_ip":"192.0.2.10","outcome":"failure"}
+{"timestamp":"2026-09-14T09:01:20Z","event":"authentication","host":"lab-server","user":"sample-student","source_ip":"192.0.2.10","outcome":"failure"}
+{"timestamp":"2026-09-14T09:01:30Z","event":"authentication","host":"lab-server","user":"sample-student","source_ip":"192.0.2.10","outcome":"failure"}
+{"timestamp":"2026-09-14T09:01:40Z","event":"authentication","host":"lab-server","user":"sample-student","source_ip":"192.0.2.10","outcome":"failure"}
+{"timestamp":"2026-09-14T09:01:50Z","event":"authentication","host":"lab-server","user":"sample-student","source_ip":"192.0.2.10","outcome":"success"}
+{"timestamp":"2026-09-14T10:00:00Z","event":"authentication","host":"lab-server","user":"sample-alex","source_ip":"203.0.113.20","outcome":"failure"}
+{"timestamp":"2026-09-14T10:00:10Z","event":"authentication","host":"lab-server","user":"sample-blair","source_ip":"203.0.113.20","outcome":"failure"}
+{"timestamp":"2026-09-14T10:00:20Z","event":"authentication","host":"lab-server","user":"sample-casey","source_ip":"203.0.113.20","outcome":"failure"}
+{"timestamp":"2026-09-14T10:00:30Z","event":"authentication","host":"lab-server","user":"sample-devon","source_ip":"203.0.113.20","outcome":"failure"}
+{"timestamp":"2026-09-14T10:00:40Z","event":"authentication","host":"lab-server","user":"sample-ellis","source_ip":"203.0.113.20","outcome":"failure"}
